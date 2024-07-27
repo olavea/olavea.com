@@ -1,5 +1,8 @@
 ---
 title: Airbnb comeback
+description: 'Lorem ipsum dolor sit amet'
+pubDate: 'Jul 02 2022'
+heroImage: '/blog-placeholder-5.jpg'
 # author: "@OlaHolstVea"
 # date: 2024-07-20
 ---
