@@ -122,21 +122,21 @@ Om lille Lucy som dru ut for å gjøre en morgenlevering med sjokolade croissant
 
 
 
-![Leave-it-with-us]()
+<!-- ![Leave-it-with-us]() -->
 
 
 
 «Vi skal finne dette kartet over de såkalte 'Web-Dev' øyene og
 
 
-![Web-Dev-Islands-1]()
+<!-- ![Web-Dev-Islands-1]() -->
 
 
 så setter vi opp et bytte, ikke bekymr dere.»
 
 
 
-![exchange-Hal]()
+<!-- ![exchange-Hal]() -->
 
 ![]()
 «.»
@@ -148,13 +148,13 @@ så setter vi opp et bytte, ikke bekymr dere.»
 «JAAA! Vi har en ny SAK!» Ropte Hal da vi var aleine.
 
 
-![a-case-Hal]()
+<!-- ![a-case-Hal]() -->
 
 
 «Og en tøff sak.» Sa Lotta tankefullt og klikket på den skarpe fortanna si.
 
 
-![sharp-tooth-Hal]()
+<!-- ![sharp-tooth-Hal]() -->
 
 
 «So what's
@@ -168,7 +168,7 @@ Dev Islands?» Said Lotta.
 
 
 
-![web-Dev-Islands-2]()
+<!-- ![web-Dev-Islands-2]() -->
 
 
 
@@ -182,7 +182,7 @@ illegal. "web-dev"! It's pure Treason , innit.» Hal said.
 
 
 
-![web-Dev-Islands-3]()
+<!-- ![web-Dev-Islands-3]() -->
 
 
 
