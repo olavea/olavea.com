@@ -13,7 +13,7 @@ I tried out a new way to find purpose to my work here at Lilly Labs that sometim
 
 All the stuff we're doing here both at Lilly Labs and at play.
 
-![]()
+<!-- ![]() -->
 
 
 ## Who is my movie about?
