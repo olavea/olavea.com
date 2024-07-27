@@ -138,7 +138,7 @@ så setter vi opp et bytte, ikke bekymr dere.»
 
 <!-- ![exchange-Hal]() -->
 
-![]()
+<!-- ![]() -->
 «.»
 
 «.»

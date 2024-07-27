@@ -25,7 +25,7 @@ What did we do?
 
 The Crown Prince of the Labour Party was also The Planets Own Handsome Knight in Shining Green Armour. Back then he named his project "Natural Gas", great for our planet. Then The Planets Own Handsome Knight smiled his handsome smile.
 
-![glint]()
+<!-- ![glint]() -->
 
 We made a new tale, about how The Planets Own Handsome Knight actually was a lying Traitor selling out to the Big, Bad, Oily Oil Industry. While pretending it was all "natural" and good for mother nature.
 
