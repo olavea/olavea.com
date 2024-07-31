@@ -9,7 +9,7 @@ heroImage: '/blog-placeholder-5.jpg'
 
 
 
-
+I'm adding photos
 ![facade](https://pbs.twimg.com/media/GS6-hfSWUAApCVP?format=jpg&name=medium)
 
 ![Plants](https://pbs.twimg.com/media/GS6kXtpWkAAD_ag?format=jpg&name=medium)
