@@ -1,15 +1,26 @@
 ---
-title: Airbnb comeback
+title: Spacious Studio in Oslo's Coziest Neighborhood +Cat on Airbnb
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 02 2022'
-heroImage: '/blog-placeholder-5.jpg'
+pubDate: 'Jul 02 2024'
+heroImage: '/courtyard.jpg'
 # author: "@OlaHolstVea"
 # date: 2024-07-20
 ---
 
 
 
-I'm adding photos
+Check out our listing on Airbnb
+
+# Spacious Studio in Oslo's Coziest Neighborhood +Cat
+
+[Check out our listing on Airbnb ](https://www.airbnb.com/rooms/17871018?guests=1&adults=1&s=67&unique_share_id=2951bedb-1a4b-40fb-bd68-03b071a56793)
+
+I'm added photos taken by the Pirate Princess (9)
+
+![Neighborhood](https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTc4NzEwMTg%3D/original/d5165c35-108b-4769-9815-0e91942be4ed.jpeg?im_w=1200)
+
+
+
 ![facade](https://pbs.twimg.com/media/GS6-hfSWUAApCVP?format=jpg&name=medium)
 
 ![Plants](https://pbs.twimg.com/media/GS6kXtpWkAAD_ag?format=jpg&name=medium)
