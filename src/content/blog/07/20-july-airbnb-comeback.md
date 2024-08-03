@@ -1,6 +1,6 @@
 ---
 title: Spacious Studio in Oslo's Coziest Neighborhood +Cat on Airbnb
-description: 'Lorem ipsum dolor sit amet'
+description: 'Check out our listing on Airbnb'
 pubDate: 'Jul 02 2024'
 heroImage: '/courtyard.jpg'
 # author: "@OlaHolstVea"
